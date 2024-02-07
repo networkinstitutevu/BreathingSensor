@@ -1,0 +1,5 @@
+PLUX sensor MAC [MAC address with -]:00-07-80-79-6F-D0
+Use PLUX [bool]:true
+Absolute minimum RR [int]:4
+Absolute maximum RR [int]:25
+Clamped average: true
